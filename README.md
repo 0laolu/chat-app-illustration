@@ -5,9 +5,8 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Links](#links)
 
 
 ## Overview
